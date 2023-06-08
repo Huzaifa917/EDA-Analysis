@@ -1,2 +1,3 @@
 # EDA-Analysis
-EDA Analysis , Choosing best algorithm for this dataset
+EDA Analysis , Choosing best algorithm for the activity_context_training_data  dataset
+The goal of this project is to create an intelligent activity recognition model for a mobile application for a fitness company. Low-level sensor data from smartphone sensors makes up the dataset. Statistical feature extraction techniques will be applied to the data in order to extract useful information. Custom modules, function definitions, OOP, file processing, and exception handling are just a few examples of programming ideas that will be used. For scientific computing, data analysis, visualization, and machine learning applications, libraries like NumPy, Pandas, Matplotlib, and Scikit-learn will be used. Delivering a precise activity recognition model that can adjust to users' actions and enable personalized fitness monitoring and services is the aim.
